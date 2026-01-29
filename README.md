@@ -8,7 +8,8 @@
 </div>
 
 ---
-<h2 align="center"></h2>
+<h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center" style="margin:40px 0;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=VeerShah41&show_icons=true&theme=dracula&hide_border=true"
@@ -32,8 +33,8 @@
 
 ---
 
-### 🏅 Achievements
 
+<h2 align="center">🏅 Achievements</h2>
 <div align="center">
   <a href="https://holopin.io/@veershah41">
     <img src="https://holopin.me/veershah41" alt="Holopin badges" width="800"/>
