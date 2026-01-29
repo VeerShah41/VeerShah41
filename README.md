@@ -1,38 +1,33 @@
 <!-- PREVIEW IMAGE FIRST -->
-<div align="center">
-  <img src="Assets/I’M%20Veer%20Shah.png" alt="Preview" width="400"/>
+<div align="center" style="margin-bottom:40px;">
+  <img 
+    src="Assets/I’M%20Veer%20Shah.png"
+    width="900"
+    style="border-radius:16px; box-shadow:0 20px 50px rgba(0,0,0,0.6);"
+  />
 </div>
 
 ---
-
-<!-- GITHUB STATS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VeerShah41&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VeerShah41&layout=compact&langs_count=5&theme=dracula" height="150"/>
+<h2 align="center"></h2>
+<div align="center" style="margin:40px 0;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=VeerShah41&show_icons=true&theme=dracula&hide_border=true"
+    height="165"
+    style="margin-right:10px;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeerShah41&layout=compact&theme=dracula&hide_border=true"
+    height="165"
+  />
 </div>
+
 
 ---
 
-### 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+<div align="center" style="margin-top:20px;">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mysql,mongodb,python&theme=dark" />
 </div>
 
 ---
@@ -41,59 +36,64 @@
 
 <div align="center">
   <a href="https://holopin.io/@veershah41">
-    <img src="https://holopin.me/veershah41" alt="Holopin badges" width="450"/>
+    <img src="https://holopin.me/veershah41" alt="Holopin badges" width="800"/>
   </a>
 </div>
 
 ---
 
-### 🔗 Connect With Me
 
-<div align="center">
-  <a href="https://www.instagram.com/veer_shah_41/" target="_blank">
+<h2 align="center" style="margin-top:60px;">🔗 Connect With Me</h2>
+
+<div align="center" style="margin-top:20px;">
+  <a href="https://www.instagram.com/veer_shah_41/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:veershah0013@gmail.com" target="_blank">
+  &nbsp;
+  <a href="mailto:veershah0013@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/veer-shah-a6a146236" target="_blank">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/veer-shah-a6a146236">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
+
 ---
 
 <!-- SNAKE ANIMATION -->
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VeerShah41/VeerShah41/output/snake.svg" alt="Snake animation" />
+<div align="center" style="margin-top:60px;">
+  <img src="https://raw.githubusercontent.com/VeerShah41/VeerShah41/output/snake.svg"/>
+</div>
 
 ---
-<!-- QUOTES -->
-<div align="center">
+<h2 align="center" style="margin-top:60px;">💭 Philosophy</h2>
 
-  <!-- Itachi Section -->
-  <div style="display: flex; align-items: center; justify-content: center; gap: 30px; margin-bottom: 40px;">
-    <div align="left" style="max-width: 400px;">
-      <p>
+<table align="center" cellpadding="20">
+  <tr>
+    <td width="420">
+      <p style="font-style:italic;">
         “People live their lives bound by what they accept as correct and true.<br/>
-        That’s how they define ‘reality.’”<br/>
-        — Itachi Uchiha
+        That’s how they define reality.”
       </p>
-    </div>
-    <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBhaGRpanB3MDl0ZXpweXg0eHdtbjZ4a2R2NWRwcWl5djZrYTZudSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CchzkJJ6UrQmQ/giphy.gif"/>
-  </div>
+      <p><b>— Itachi Uchiha</b></p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" height="150"/>
+    </td>
+  </tr>
 
-  <!-- Jiraiya Section -->
-  <div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
-    <div align="left" style="max-width: 400px;">
-      <p>
+  <tr>
+    <td width="420">
+      <p style="font-style:italic;">
         “Rejection makes a man stronger.<br/>
-        I believe that’s how men find their true strength.”<br/>
-        — Jiraiya
+        I believe that’s how men find their true strength.”
       </p>
-    </div>
-    <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJydGc4cDdoaDNxMm45MXl0MHNsbmVka2F1Z2dhbHU1MTY0Y2xpZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BKqeg5cLztK9O/giphy.gif"/>
-  </div>
-
-</div>
+      <p><b>— Jiraiya</b></p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/BKqeg5cLztK9O/giphy.gif" height="160"/>
+    </td>
+  </tr>
+</table>
