@@ -64,9 +64,10 @@
 ---
 
 <!-- SNAKE ANIMATION -->
-<div align="center" style="margin-top:60px;">
-  <img src="https://raw.githubusercontent.com/VeerShah41/VeerShah41/output/snake.svg"/>
-</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/VeerShah41/VeerShah41/output/snake.svg" alt="Snake animation" />
 
 ---
 <h2 align="center" style="margin-top:60px;">💭 Philosophy</h2>
