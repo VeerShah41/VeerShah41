@@ -64,10 +64,12 @@
 ---
 
 <!-- SNAKE ANIMATION -->
-
-<br clear="both">
+<div>
+  <br clear="both">
 
 <img src="https://raw.githubusercontent.com/VeerShah41/VeerShah41/output/snake.svg" alt="Snake animation" />
+
+</div>
 
 ---
 <h2 align="center" style="margin-top:60px;">💭 Philosophy</h2>
@@ -85,7 +87,7 @@
       <img src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" height="150"/>
     </td>
   </tr>
----
+
 
   <tr>
     <td width="420">
