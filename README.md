@@ -85,6 +85,7 @@
       <img src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" height="150"/>
     </td>
   </tr>
+---
 
   <tr>
     <td width="420">
