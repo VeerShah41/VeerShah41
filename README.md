@@ -1,13 +1,6 @@
 <!-- PREVIEW IMAGE FIRST -->
-<div align="center" style="margin-bottom:40px;">
-  <img 
-    src="Assets/I’M%20Veer%20Shah.png"
-    width="900"
-    style="border-radius:16px; box-shadow:0 20px 50px rgba(0,0,0,0.6);"
-  />
-</div>
 
----
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center" style="margin:40px 0;">
