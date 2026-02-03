@@ -21,8 +21,9 @@
 <h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center" style="margin-top:20px;">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mysql,mongodb,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mysql,mongodb,python,numpy,pandas,matplotlib,googlesheets&theme=dark" />
 </div>
+
 
 ---
 
