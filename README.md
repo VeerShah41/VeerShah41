@@ -59,7 +59,8 @@
 
 <!-- SNAKE ANIMATION -->
 <div>
-  <br clear="both">
+ 
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/VeerShah41/VeerShah41/output/snake.svg" alt="Snake animation" />
 
