@@ -56,6 +56,15 @@
 
 
 ---
+# 🔥 Stats
+
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VeerShah41&theme=dark&hide_border=false"/>
+</p>
+
+
+---
 
 <!-- SNAKE ANIMATION -->
 <div>
