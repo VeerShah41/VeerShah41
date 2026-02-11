@@ -6,17 +6,7 @@
 
 <!-- STATS -->
 <h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=VeerShah41&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeerShah41&layout=compact&theme=dracula&hide_border=true" 
-    height="170"
-  />
-</p>
+]
 
 <p align="center">
   <img 
