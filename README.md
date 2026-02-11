@@ -5,13 +5,10 @@
 
 <div align="center" style="margin:40px 0;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=VeerShah41&show_icons=true&theme=dracula&hide_border=true"
-    height="165"
-    style="margin-right:10px;"
+    src="https://github-readme-stats.vercel.app/api?username=VeerShah41&show_icons=true&theme=dracula&hide_border=true " height="165" style="margin-right:10px;"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeerShah41&layout=compact&theme=dracula&hide_border=true"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeerShah41&layout=compact&theme=dracula&hide_border=true" height="165"
   />
 </div>
 
@@ -62,6 +59,10 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=VeerShah41&theme=dark&hide_border=false"/>
 </p>
+
+<div>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=VeerShah41&radius=16&theme=nord&area=true&order=5" height="300" alt="activity graph" />
+</div>
 
 
 ---
