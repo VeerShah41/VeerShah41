@@ -1,43 +1,69 @@
-<!-- PREVIEW IMAGE FIRST -->
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Veer Shah</h1>
+<h3 align="center">Full Stack Developer | DevOps Learner | Problem Solver</h3>
 
+---
 
+<!-- STATS -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center" style="margin:40px 0;">
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=VeerShah41&show_icons=true&theme=dracula&hide_border=true " height="165" style="margin-right:10px;"
+    src="https://github-readme-stats.vercel.app/api?username=VeerShah41&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" 
+    height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeerShah41&layout=compact&theme=dracula&hide_border=true" height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeerShah41&layout=compact&theme=dracula&hide_border=true" 
+    height="170"
   />
-</div>
+</p>
 
+<p align="center">
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=VeerShah41&theme=dark&hide_border=true" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VeerShah41&radius=16&theme=nord&area=true&hide_border=true"
+    width="95%"
+  />
+</p>
 
 ---
 
+<!-- TECH STACK -->
 <h2 align="center">🛠 Tech Stack</h2>
 
-<div align="center" style="margin-top:20px;">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mysql,mongodb,python,numpy,pandas,matplotlib,googlesheets&theme=dark" />
-</div>
-
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mysql,mongodb,python,numpy,pandas,matplotlib&theme=dark" 
+  />
+</p>
 
 ---
 
-
+<!-- ACHIEVEMENTS -->
 <h2 align="center">🏅 Achievements</h2>
-<div align="center">
+
+<p align="center">
   <a href="https://holopin.io/@veershah41">
-    <img src="https://holopin.me/veershah41" alt="Holopin badges" width="800"/>
+    <img 
+      src="https://holopin.me/veershah41" 
+      alt="Holopin badges" 
+      width="90%"
+    />
   </a>
-</div>
+</p>
 
 ---
 
+<!-- CONNECT -->
+<h2 align="center">🔗 Connect With Me</h2>
 
-<h2 align="center" style="margin-top:60px;">🔗 Connect With Me</h2>
-
-<div align="center" style="margin-top:20px;">
+<p align="center">
   <a href="https://www.instagram.com/veer_shah_41/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -49,35 +75,21 @@
   <a href="https://www.linkedin.com/in/veer-shah-a6a146236">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
-
-
----
-# 🔥 Stats
-
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VeerShah41&theme=dark&hide_border=false"/>
 </p>
 
-<div>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=VeerShah41&radius=16&theme=nord&area=true&order=5" height="300" alt="activity graph" />
-</div>
+---
 
+<!-- SNAKE -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VeerShah41/VeerShah41/output/snake.svg" />
+</p>
 
 ---
 
-<!-- SNAKE ANIMATION -->
-<div>
- 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VeerShah41/VeerShah41/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-<h2 align="center" style="margin-top:60px;">💭 Philosophy</h2>
+<!-- PHILOSOPHY -->
+<h2 align="center">💭 Philosophy</h2>
 
 <table align="center" cellpadding="20">
   <tr>
@@ -107,3 +119,10 @@
     </td>
   </tr>
 </table>
+
+
+---
+
+<h3 align="center">✨ Keep Building. Keep Learning. Keep Shipping. ✨</h3>
+
+
