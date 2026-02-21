@@ -32,9 +32,14 @@
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mysql,mongodb,python,numpy,pandas,matplotlib&theme=dark" 
-  />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,sql,react,nextjs,reactnative,nodejs,express,mysql,mongodb,prisma&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 ---
