@@ -8,11 +8,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 ]
 
+
 <p align="center">
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=VeerShah41&theme=dark&hide_border=true" 
     height="170"
   />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VeerShah41&theme=github_dark" alt="Profile Summary" />
 </p>
 
 <p align="center">
