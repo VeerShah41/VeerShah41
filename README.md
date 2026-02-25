@@ -44,7 +44,8 @@
 
 --- 
 
-## 🧠 Tech Footprint
+
+<h2 align="center">🧠 Tech Footprint</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VeerShah41&theme=tokyonight" />
