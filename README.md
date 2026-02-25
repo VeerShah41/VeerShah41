@@ -42,6 +42,18 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
+--- 
+
+## 🧠 Tech Footprint
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VeerShah41&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VeerShah41&theme=tokyonight" />
+</p>
+
+
+
+
 ---
 
 <!-- ACHIEVEMENTS -->
