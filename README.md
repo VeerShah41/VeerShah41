@@ -33,6 +33,26 @@
 </div>
 
 ---
+<!-- CONNECT -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://www.instagram.com/veer_shah_41/">
+  <img src="https://img.shields.io/badge/Instagram-1a1e2e?style=for-the-badge&logo=instagram&logoColor=b8d4e8"/>
+</a>
+&nbsp;
+<a href="mailto:veershah0013@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-1a1e2e?style=for-the-badge&logo=gmail&logoColor=b8d4e8"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/veer-shah-a6a146236">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1e2e?style=for-the-badge&logo=linkedin&logoColor=b8d4e8"/>
+</a>
+
+</div>
+
+---
 
 <!-- GITHUB STATS -->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -106,27 +126,6 @@
 
 <a href="https://holopin.io/@veershah41">
   <img src="https://holopin.me/veershah41" alt="@veershah41's holopin board" width="92%"/>
-</a>
-
-</div>
-
----
-
-<!-- CONNECT -->
-<h2 align="center">🌐 Connect With Me</h2>
-
-<div align="center">
-
-<a href="https://www.instagram.com/veer_shah_41/">
-  <img src="https://img.shields.io/badge/Instagram-1a1e2e?style=for-the-badge&logo=instagram&logoColor=b8d4e8"/>
-</a>
-&nbsp;
-<a href="mailto:veershah0013@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-1a1e2e?style=for-the-badge&logo=gmail&logoColor=b8d4e8"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/veer-shah-a6a146236">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1e2e?style=for-the-badge&logo=linkedin&logoColor=b8d4e8"/>
 </a>
 
 </div>
