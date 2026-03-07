@@ -71,17 +71,17 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VeerShah41&theme=nord_bright" width="97%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VeerShah41&theme=github_dark" width="97%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VeerShah41&theme=nord_bright"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VeerShah41&theme=github_dark"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VeerShah41&theme=nord_bright"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VeerShah41&theme=github_dark"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VeerShah41&theme=nord_bright&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VeerShah41&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
@@ -114,9 +114,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VeerShah41&theme=nord_bright"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VeerShah41&theme=github_dark"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VeerShah41&theme=nord_bright"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VeerShah41&theme=github_dark"/>
 
 </div>
 
