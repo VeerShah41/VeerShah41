@@ -19,7 +19,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                 ✦  PROFILE — VEER SHAH  ✦                      │
+│              ✦  PROFILE — Veer Shah  ✦                         │
 ├─────────────────────────────────────────────────────────────────┤
 │  [USER]      Veer Shah                                          │
 │  [ROLE]      Full Stack Developer & DevOps Learner              │
@@ -34,20 +34,20 @@
 
 ---
 <!-- CONNECT -->
-<h2 align="center">� Connect With Me</h2>
+<h2 align="center">🌐 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
 
 <div align="center">
 
 <a href="https://www.instagram.com/veer_shah_41/">
-  <img src="https://img.shields.io/badge/Instagram-1a1e2e?style=for-the-badge&logo=instagram&logoColor=b8d4e8"/>
+  <img src="https://img.shields.io/badge/Iɴsᴛᴀɢʀᴀᴍ-1a1e2e?style=for-the-badge&logo=instagram&logoColor=b8d4e8"/>
 </a>
 &nbsp;
 <a href="mailto:veershah0013@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-1a1e2e?style=for-the-badge&logo=gmail&logoColor=b8d4e8"/>
+  <img src="https://img.shields.io/badge/Gᴍᴀɪʟ-1a1e2e?style=for-the-badge&logo=gmail&logoColor=b8d4e8"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/veer-shah-a6a146236">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1e2e?style=for-the-badge&logo=linkedin&logoColor=b8d4e8"/>
+  <img src="https://img.shields.io/badge/Lɪɴᴋᴇᴅɪɴ-1a1e2e?style=for-the-badge&logo=linkedin&logoColor=b8d4e8"/>
 </a>
 
 </div>
@@ -55,7 +55,7 @@
 ---
 
 <!-- GITHUB STATS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=📊%20GitHub%20Stats&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=📊%20G%C9%AA%E1%B4%9B%CA%9C%E1%B4%9C%E1%B4%8A%20S%E1%B4%9B%E1%B4%80%E1%B4%9B%CA%87&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 ---
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=📡%20Contribution%20Graph&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=📡%20C%E1%B4%8F%C9%B4%E1%B4%9B%CA%80%C9%AA%E1%B4%8D%E1%B4%9C%E1%B4%9B%C9%AA%E1%B4%8F%C9%B4%20G%CA%80%E1%B4%80%E1%B4%98%CA%9C&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -77,7 +77,7 @@
 ---
 
 <!-- PROFILE SUMMARY CARDS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🧬%20Profile%20Summary&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🧬%20P%CA%80%E1%B4%8F%E1%B4%8D%C9%AA%E1%B4%8C%E1%B4%87%20S%E1%B4%9C%E1%B4%8D%E1%B4%8D%E1%B4%80%CA%80%CA%8F&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -98,7 +98,7 @@
 ---
 
 <!-- TECH STACK -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🛠%20Tech%20Stack&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🛠%20T%E1%B4%87%E1%B4%84%CA%9C%20S%E1%B4%9B%E1%B4%80%E1%B4%84%C6%B4&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -110,17 +110,17 @@
 
 <div align="center">
 
-![NumPy](https://img.shields.io/badge/NumPy-1a1e2e?style=for-the-badge&logo=numpy&logoColor=b8d4e8)
-![Pandas](https://img.shields.io/badge/Pandas-1a1e2e?style=for-the-badge&logo=pandas&logoColor=b8d4e8)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1a1e2e?style=for-the-badge&logo=plotly&logoColor=b8d4e8)
-![Excel](https://img.shields.io/badge/Excel-1a1e2e?style=for-the-badge&logo=microsoft-excel&logoColor=b8d4e8)
+![Nᴜᴍᴘʏ](https://img.shields.io/badge/N%E1%B4%9C%E1%B4%8D%E1%B4%98%CA%8F-1a1e2e?style=for-the-badge&logo=numpy&logoColor=b8d4e8)
+![Pᴀɴᴅᴀs](https://img.shields.io/badge/P%E1%B4%80%C9%B4%E1%B4%85%E1%B4%80s-1a1e2e?style=for-the-badge&logo=pandas&logoColor=b8d4e8)
+![Mᴀᴛᴘʟᴏᴛʟɪʙ](https://img.shields.io/badge/M%E1%B4%80%E1%B4%9B%E1%B4%98%CA%9F%E1%B4%8F%E1%B4%9B%CA%9F%C9%AA%E1%B4%8A-1a1e2e?style=for-the-badge&logo=plotly&logoColor=b8d4e8)
+![Exᴄᴇʟ](https://img.shields.io/badge/Ex%E1%B4%84%E1%B4%87%CA%9F-1a1e2e?style=for-the-badge&logo=microsoft-excel&logoColor=b8d4e8)
 
 </div>
 
 ---
 
 <!-- ACHIEVEMENTS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🏅%20Achievements&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🏅%20A%E1%B4%84%CA%9C%C9%AA%E1%B4%87%E1%B4%A0%E1%B4%87%E1%B4%8D%E1%B4%87%C9%B4%E1%B4%9Bs&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -133,20 +133,20 @@
 ---
 
 <!-- CONNECT -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🌐%20Connect%20With%20Me&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🌐%20C%E1%B4%8F%C9%B4%C9%B4%E1%B4%87%E1%B4%84%E1%B4%9B%20W%C9%AA%E1%B4%9B%CA%9C%20M%E1%B4%87&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
 <a href="https://www.instagram.com/veer_shah_41/">
-  <img src="https://img.shields.io/badge/Instagram-1a1e2e?style=for-the-badge&logo=instagram&logoColor=b8d4e8"/>
+  <img src="https://img.shields.io/badge/Iɴsᴛᴀɢʀᴀᴍ-1a1e2e?style=for-the-badge&logo=instagram&logoColor=b8d4e8"/>
 </a>
 &nbsp;
 <a href="mailto:veershah0013@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-1a1e2e?style=for-the-badge&logo=gmail&logoColor=b8d4e8"/>
+  <img src="https://img.shields.io/badge/Gᴍᴀɪʟ-1a1e2e?style=for-the-badge&logo=gmail&logoColor=b8d4e8"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/veer-shah-a6a146236">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1e2e?style=for-the-badge&logo=linkedin&logoColor=b8d4e8"/>
+  <img src="https://img.shields.io/badge/Lɪɴᴋᴇᴅɪɴ-1a1e2e?style=for-the-badge&logo=linkedin&logoColor=b8d4e8"/>
 </a>
 
 </div>
@@ -154,7 +154,7 @@
 ---
 
 <!-- CONTRIBUTION SNAKE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🐍%20Contribution%20Snake&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🐍%20C%E1%B4%8F%C9%B4%E1%B4%9B%CA%80%C9%AA%E1%B4%8D%E1%B4%9C%E1%B4%9B%C9%AA%E1%B4%8F%C9%B4%20S%C9%B4%E1%B4%80%C6%B4%E1%B4%87&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -165,7 +165,7 @@
 ---
 
 <!-- PHILOSOPHY - ORIGINAL STYLE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=💭%20Philosophy&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=💭%20P%CA%9C%C9%AA%CA%9F%E1%B4%8Fs%E1%B4%8F%E1%B4%98%CA%9C%CA%8F&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <table align="center" cellpadding="20">
   <tr>
