@@ -35,28 +35,18 @@
 ---
 
 <!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=📊%20GitHub%20Stats&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=VeerShah41&show_icons=true&count_private=true&hide_border=true&bg_color=1a1e2e&title_color=b8d4e8&icon_color=9bb8d4&text_color=d4c5b0&ring_color=7b9bb5" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeerShah41&layout=compact&hide_border=true&bg_color=1a1e2e&title_color=b8d4e8&text_color=d4c5b0&langs_count=8" height="180"/> -->
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=VeerShah41&hide_border=true&background=1a1e2e&ring=9bb8d4&fire=d4c5b0&currStreakLabel=b8d4e8&currStreakNum=e8ddd0&sideLabels=9bb8d4&sideNums=d4c5b0&dates=7b9bb5&stroke=2d3561" height="180"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=VeerShah41&hide_border=true&background=1a1e2e&ring=9bb8d4&fire=d4c5b0&currStreakLabel=b8d4e8&currStreakNum=e8ddd0&sideLabels=9bb8d4&sideNums=d4c5b0&dates=7b9bb5&stroke=2d3561" height="170"/>
 
 </div>
 
 ---
 
 <!-- ACTIVITY GRAPH -->
-<h2 align="center">📡 Contribution Graph</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=📡%20Contribution%20Graph&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -67,7 +57,7 @@
 ---
 
 <!-- PROFILE SUMMARY CARDS -->
-<h2 align="center">🧬 Profile Summary</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🧬%20Profile%20Summary&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -88,7 +78,7 @@
 ---
 
 <!-- TECH STACK -->
-<h2 align="center">� Tech Stack</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🛠%20Tech%20Stack&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -109,21 +99,8 @@
 
 ---
 
-<!-- TECH FOOTPRINT -->
-<h2 align="center">🧠 Tech Footprint</h2>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VeerShah41&theme=github_dark"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VeerShah41&theme=github_dark"/>
-
-</div>
-
----
-
 <!-- ACHIEVEMENTS -->
-<h2 align="center">🏅 Achievements</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🏅%20Achievements&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -136,7 +113,7 @@
 ---
 
 <!-- CONNECT -->
-<h2 align="center">� Connect With Me</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🌐%20Connect%20With%20Me&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -157,7 +134,7 @@
 ---
 
 <!-- CONTRIBUTION SNAKE -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🐍%20Contribution%20Snake&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -168,7 +145,7 @@
 ---
 
 <!-- PHILOSOPHY - ORIGINAL STYLE -->
-<h2 align="center">💭 Philosophy</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=💭%20Philosophy&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <table align="center" cellpadding="20">
   <tr>
