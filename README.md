@@ -33,6 +33,26 @@
 </div>
 
 ---
+<!-- CONNECT -->
+<h2 align="center">� Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://www.instagram.com/veer_shah_41/">
+  <img src="https://img.shields.io/badge/Instagram-1a1e2e?style=for-the-badge&logo=instagram&logoColor=b8d4e8"/>
+</a>
+&nbsp;
+<a href="mailto:veershah0013@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-1a1e2e?style=for-the-badge&logo=gmail&logoColor=b8d4e8"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/veer-shah-a6a146236">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1e2e?style=for-the-badge&logo=linkedin&logoColor=b8d4e8"/>
+</a>
+
+</div>
+
+---
 
 <!-- GITHUB STATS -->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -109,19 +129,6 @@
 
 ---
 
-<!-- TECH FOOTPRINT -->
-<h2 align="center">🧠 Tech Footprint</h2>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VeerShah41&theme=github_dark"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VeerShah41&theme=github_dark"/>
-
-</div>
-
----
-
 <!-- ACHIEVEMENTS -->
 <h2 align="center">🏅 Achievements</h2>
 
@@ -130,38 +137,6 @@
 <a href="https://holopin.io/@veershah41">
   <img src="https://holopin.me/veershah41" alt="@veershah41's holopin board" width="92%"/>
 </a>
-
-</div>
-
----
-
-<!-- CONNECT -->
-<h2 align="center">� Connect With Me</h2>
-
-<div align="center">
-
-<a href="https://www.instagram.com/veer_shah_41/">
-  <img src="https://img.shields.io/badge/Instagram-1a1e2e?style=for-the-badge&logo=instagram&logoColor=b8d4e8"/>
-</a>
-&nbsp;
-<a href="mailto:veershah0013@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-1a1e2e?style=for-the-badge&logo=gmail&logoColor=b8d4e8"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/veer-shah-a6a146236">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1e2e?style=for-the-badge&logo=linkedin&logoColor=b8d4e8"/>
-</a>
-
-</div>
-
----
-
-<!-- CONTRIBUTION SNAKE -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/VeerShah41/VeerShah41/output/snake.svg" alt="Snake animation"/>
 
 </div>
 
