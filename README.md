@@ -200,7 +200,6 @@
 
 ---
 
-<h3 align="center">✨ Keep Building. Keep Learning. Keep Shipping. ✨</h3>
 
 <!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b8d4e8,40:7b9bb5,80:2d3561,100:1a1e2e&height=130&section=footer&text=Keep%20Building.%20Keep%20Shipping.&fontSize=18&fontColor=e8ddd0&animation=twinkling" width="100%"/>
