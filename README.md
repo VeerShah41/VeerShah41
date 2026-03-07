@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1e2e,40:2d3561,80:7b9bb5,100:b8d4e8&height=210&section=header&text=VEER%20SHAH&fontSize=62&fontColor=e8ddd0&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20DevOps%20%7C%20Problem%20Solver&descAlignY=56&descColor=c9b99a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1e2e,40:2d3561,80:7b9bb5,100:b8d4e8&height=240&section=header&text=V%E1%B4%87%E1%B4%87%CA%80%20S%CA%9C%E1%B4%80%CA%9C&fontSize=62&fontColor=e8ddd0&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20DevOps%20%7C%20Problem%20Solver&descAlignY=56&descColor=c9b99a" width="100%"/>
 
 </div>
 
@@ -35,7 +35,7 @@
 ---
 
 <!-- GITHUB STATS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=📊%20GitHub%20Stats&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 ---
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=📡%20Contribution%20Graph&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
+<h2 align="center">📡 Contribution Graph</h2>
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 ---
 
 <!-- PROFILE SUMMARY CARDS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🧬%20Profile%20Summary&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
+<h2 align="center">🧬 Profile Summary</h2>
 
 <div align="center">
 
@@ -78,7 +78,7 @@
 ---
 
 <!-- TECH STACK -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🛠%20Tech%20Stack&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
+<h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
 
@@ -100,7 +100,7 @@
 ---
 
 <!-- ACHIEVEMENTS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🏅%20Achievements&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
+<h2 align="center">🏅 Achievements</h2>
 
 <div align="center">
 
@@ -113,7 +113,7 @@
 ---
 
 <!-- CONNECT -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=🌐%20Connect%20With%20Me&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 
@@ -134,7 +134,7 @@
 ---
 
 <!-- PHILOSOPHY -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1e2e,100:2d3561&height=36&text=💭%20Philosophy&fontSize=18&fontColor=e8ddd0&fontAlign=50&fontAlignY=60" width="100%"/>
+<h2 align="center">💭 Philosophy</h2>
 
 <table align="center" cellpadding="20">
   <tr>
