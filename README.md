@@ -99,22 +99,20 @@
 ---
 
 <!-- TECH STACK -->
+<h2 align="center">🛠 Tech Stack</h2>
+
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="10">
   <tr>
-    <td align="right" valign="middle">
-      <img src="Assets/seal-red.png" height="48" alt="Nine-Tails Seal"/>
+    <td align="center" valign="middle">
+      <img src="Assets/seal-red.png" height="100" alt="Nine-Tails Seal"/>
     </td>
     <td align="left" valign="middle">
-      &nbsp;<b><font size="5">🛠 Tech Stack</font></b>
+      <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mysql,mongodb,prisma,git,linux,docker&theme=dark&perline=8"/>
     </td>
   </tr>
 </table>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mysql,mongodb,prisma,git,linux,docker&theme=dark&perline=8"/>
 
 </div>
 
