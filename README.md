@@ -56,7 +56,7 @@
 ---
 
 <!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
+<div align="center"><img src="https://img.shields.io/badge/📊_GitHub_Stats-1a1e2e?style=for-the-badge&labelColor=2d3561&color=1a1e2e&logoColor=b8d4e8" alt="GitHub Stats"/></div>
 
 <div align="center">
 
@@ -99,7 +99,7 @@
 ---
 
 <!-- TECH STACK -->
-<h2 align="center">🛠 Tech Stack</h2>
+<div align="center"><img src="https://img.shields.io/badge/🛠_Tech_Stack-1a1e2e?style=for-the-badge&labelColor=2d3561&color=1a1e2e&logoColor=b8d4e8" alt="Tech Stack"/></div>
 
 <div align="center">
 
@@ -130,7 +130,7 @@
 ---
 
 <!-- ACHIEVEMENTS -->
-<h2 align="center">🏅 Achievements</h2>
+<div align="center"><img src="https://img.shields.io/badge/🏅_Achievements-1a1e2e?style=for-the-badge&labelColor=2d3561&color=1a1e2e&logoColor=b8d4e8" alt="Achievements"/></div>
 
 <div align="center">
 
