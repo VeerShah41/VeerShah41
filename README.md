@@ -5,22 +5,6 @@
 
 </div>
 
-<!-- NAME + SEAL ROW -->
-<div align="center">
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="right" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Assets/seal-white.png">
-        <img src="Assets/seal.png" height="52" alt="Nine-Tails Seal"/>
-      </picture>
-    </td>
-    <td align="left" valign="middle">
-      &nbsp;&nbsp;<b><font size="6">Vᴇᴇʀ Sʜᴀʜ</font></b>
-    </td>
-  </tr>
-</table>
-</div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
@@ -165,7 +149,14 @@
       <img src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" height="150"/>
     </td>
   </tr>
+</table>
 
+<!-- NINE-TAILS SEAL -->
+<div align="center">
+  <img src="Assets/seal-red.png" height="110" alt="Nine-Tails Seal"/>
+</div>
+
+<table align="center" cellpadding="20">
   <tr>
     <td width="420">
       <p style="font-style:italic;">
