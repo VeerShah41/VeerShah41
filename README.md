@@ -99,22 +99,30 @@
 ---
 
 <!-- TECH STACK -->
-<h2 align="center">🛠 Tech Stack</h2>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mysql,mongodb,prisma,git,linux,docker&theme=dark&perline=8"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![NumPy](https://img.shields.io/badge/NumPy-1a1e2e?style=for-the-badge&logo=numpy&logoColor=b8d4e8)
-![Pandas](https://img.shields.io/badge/Pandas-1a1e2e?style=for-the-badge&logo=pandas&logoColor=b8d4e8)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1a1e2e?style=for-the-badge&logo=plotly&logoColor=b8d4e8)
-![Excel](https://img.shields.io/badge/Excel-1a1e2e?style=for-the-badge&logo=microsoft-excel&logoColor=b8d4e8)
+<table border="0" cellpadding="0" cellspacing="0" width="97%">
+  <tr>
+    <td align="center" bgcolor="#1a1e2e" style="border-radius:12px; padding:6px 20px 2px 20px;">
+      <img src="Assets/seal-red.png" height="72" alt="Nine-Tails Seal"/>
+      <br/>
+      <b><font color="#b8d4e8" size="5">🛠 &nbsp; T E C H &nbsp; S T A C K &nbsp; 🛠</font></b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mysql,mongodb,prisma,git,linux,docker&theme=dark&perline=8"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/NumPy-1a1e2e?style=for-the-badge&logo=numpy&logoColor=b8d4e8"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Pandas-1a1e2e?style=for-the-badge&logo=pandas&logoColor=b8d4e8"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Matplotlib-1a1e2e?style=for-the-badge&logo=plotly&logoColor=b8d4e8"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Excel-1a1e2e?style=for-the-badge&logo=microsoft-excel&logoColor=b8d4e8"/>
+      <br/><br/>
+      <sub><font color="#c9b99a">━━━━━━━━━━━━━━━ ✦ Full Stack · DevOps · Data ✦ ━━━━━━━━━━━━━━━</font></sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -149,14 +157,6 @@
       <img src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" height="150"/>
     </td>
   </tr>
-</table>
-
-<!-- NINE-TAILS SEAL -->
-<div align="center">
-  <img src="Assets/seal-red.png" height="110" alt="Nine-Tails Seal"/>
-</div>
-
-<table align="center" cellpadding="20">
   <tr>
     <td width="420">
       <p style="font-style:italic;">
