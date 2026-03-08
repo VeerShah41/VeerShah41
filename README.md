@@ -5,7 +5,6 @@
 
 </div>
 
-
 <!-- TYPING ANIMATION -->
 <div align="center">
 
@@ -56,7 +55,7 @@
 ---
 
 <!-- GITHUB STATS -->
-<div align="center"><img src="https://img.shields.io/badge/📊_GitHub_Stats-1a1e2e?style=for-the-badge&labelColor=2d3561&color=1a1e2e&logoColor=b8d4e8" alt="GitHub Stats"/></div>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -99,20 +98,11 @@
 ---
 
 <!-- TECH STACK -->
-<div align="center"><img src="https://img.shields.io/badge/🛠_Tech_Stack-1a1e2e?style=for-the-badge&labelColor=2d3561&color=1a1e2e&logoColor=b8d4e8" alt="Tech Stack"/></div>
+<h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="10">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="Assets/seal-red.png" height="100" alt="Nine-Tails Seal"/>
-    </td>
-    <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mysql,mongodb,prisma,git,linux,docker&theme=dark&perline=8"/>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mysql,mongodb,prisma,git,linux,docker&theme=dark&perline=8"/>
 
 </div>
 
@@ -121,16 +111,16 @@
 <div align="center">
 
 ![NumPy](https://img.shields.io/badge/NumPy-1a1e2e?style=for-the-badge&logo=numpy&logoColor=b8d4e8)
-&nbsp;![Pandas](https://img.shields.io/badge/Pandas-1a1e2e?style=for-the-badge&logo=pandas&logoColor=b8d4e8)
-&nbsp;![Matplotlib](https://img.shields.io/badge/Matplotlib-2d3561?style=for-the-badge&logo=plotly&logoColor=c9b99a)
-&nbsp;![Excel](https://img.shields.io/badge/Excel-2d3561?style=for-the-badge&logo=microsoft-excel&logoColor=c9b99a)
+![Pandas](https://img.shields.io/badge/Pandas-1a1e2e?style=for-the-badge&logo=pandas&logoColor=b8d4e8)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1a1e2e?style=for-the-badge&logo=plotly&logoColor=b8d4e8)
+![Excel](https://img.shields.io/badge/Excel-1a1e2e?style=for-the-badge&logo=microsoft-excel&logoColor=b8d4e8)
 
 </div>
 
 ---
 
 <!-- ACHIEVEMENTS -->
-<div align="center"><img src="https://img.shields.io/badge/🏅_Achievements-1a1e2e?style=for-the-badge&labelColor=2d3561&color=1a1e2e&logoColor=b8d4e8" alt="Achievements"/></div>
+<h2 align="center">🏅 Achievements</h2>
 
 <div align="center">
 
@@ -139,38 +129,6 @@
 </a>
 
 </div>
-
----
-
-<!-- PHILOSOPHY -->
-<h2 align="center">💭 Philosophy</h2>
-
-<table align="center" cellpadding="20">
-  <tr>
-    <td width="420">
-      <p style="font-style:italic;">
-        "People live their lives bound by what they accept as correct and true.<br/>
-        That's how they define reality."
-      </p>
-      <p><b>— Itachi Uchiha</b></p>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" height="150"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="420">
-      <p style="font-style:italic;">
-        "Rejection makes a man stronger.<br/>
-        I believe that's how men find their true strength."
-      </p>
-      <p><b>— Jiraiya</b></p>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/BKqeg5cLztK9O/giphy.gif" height="160"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
