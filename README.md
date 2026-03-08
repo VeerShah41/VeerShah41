@@ -102,7 +102,16 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mysql,mongodb,prisma,git,linux,docker&theme=dark&perline=8"/>
+<table border="0" cellpadding="0" cellspacing="10">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="Assets/seal-red.png" height="100" alt="Nine-Tails Seal"/>
+    </td>
+    <td align="left" valign="middle">
+      <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mysql,mongodb,prisma,git,linux,docker&theme=dark&perline=8"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
