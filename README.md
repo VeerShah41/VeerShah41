@@ -101,28 +101,31 @@
 <!-- TECH STACK -->
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0" width="97%">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center" bgcolor="#1a1e2e" style="border-radius:12px; padding:6px 20px 2px 20px;">
-      <img src="Assets/seal-red.png" height="72" alt="Nine-Tails Seal"/>
-      <br/>
-      <b><font color="#b8d4e8" size="5">🛠 &nbsp; T E C H &nbsp; S T A C K &nbsp; 🛠</font></b>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mysql,mongodb,prisma,git,linux,docker&theme=dark&perline=8"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/NumPy-1a1e2e?style=for-the-badge&logo=numpy&logoColor=b8d4e8"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Pandas-1a1e2e?style=for-the-badge&logo=pandas&logoColor=b8d4e8"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Matplotlib-1a1e2e?style=for-the-badge&logo=plotly&logoColor=b8d4e8"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Excel-1a1e2e?style=for-the-badge&logo=microsoft-excel&logoColor=b8d4e8"/>
-      <br/><br/>
-      <sub><font color="#c9b99a">━━━━━━━━━━━━━━━ ✦ Full Stack · DevOps · Data ✦ ━━━━━━━━━━━━━━━</font></sub>
-      <br/><br/>
+    <td align="right" valign="middle">
+      <img src="Assets/seal-red.png" height="48" alt="Nine-Tails Seal"/>
+    </td>
+    <td align="left" valign="middle">
+      &nbsp;<b><font size="5">🛠 Tech Stack</font></b>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mysql,mongodb,prisma,git,linux,docker&theme=dark&perline=8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![NumPy](https://img.shields.io/badge/NumPy-1a1e2e?style=for-the-badge&logo=numpy&logoColor=b8d4e8)
+&nbsp;![Pandas](https://img.shields.io/badge/Pandas-1a1e2e?style=for-the-badge&logo=pandas&logoColor=b8d4e8)
+&nbsp;![Matplotlib](https://img.shields.io/badge/Matplotlib-2d3561?style=for-the-badge&logo=plotly&logoColor=c9b99a)
+&nbsp;![Excel](https://img.shields.io/badge/Excel-2d3561?style=for-the-badge&logo=microsoft-excel&logoColor=c9b99a)
 
 </div>
 
