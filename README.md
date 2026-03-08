@@ -5,6 +5,23 @@
 
 </div>
 
+<!-- NAME + SEAL ROW -->
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="right" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Assets/seal-white.png">
+        <img src="Assets/seal.png" height="52" alt="Nine-Tails Seal"/>
+      </picture>
+    </td>
+    <td align="left" valign="middle">
+      &nbsp;&nbsp;<b><font size="6">Vᴇᴇʀ Sʜᴀʜ</font></b>
+    </td>
+  </tr>
+</table>
+</div>
+
 <!-- TYPING ANIMATION -->
 <div align="center">
 
