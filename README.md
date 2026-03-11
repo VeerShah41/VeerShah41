@@ -55,7 +55,10 @@
 ---
 
 <!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
+  &nbsp;<span style="color:#00FF41">System Stats</span>
+</h2>
 
 <div align="center">
 
