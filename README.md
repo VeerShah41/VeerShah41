@@ -100,7 +100,7 @@
 
 ---
 
-<!-- TECH STACK -->
+<!-- TECH STACK1 -->
 <h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
