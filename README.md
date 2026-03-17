@@ -87,9 +87,9 @@
 <table border="0" cellpadding="8" cellspacing="0">
   <tr>
     <td align="center" valign="top" rowspan="6" style="padding-right: 20px;">
-      <img src="Assets/seal-red.png" height="110" alt="Nine-Tails Seal"/>
+      <img src="Assets/seal-red.png" height="140" alt="Nine-Tails Seal"/>
       <br/>
-      技<br/>力<br/>道<br/>忍<br/>創<br/>術<br/>志<br/>覇
+      技<br/>力<br/>道<br/>忍<br/>創<br/>術<br/>志<br/>覇<br/>轟<br/>剣<br/>炎<br/>魂<br/>極
     </td>
     <td align="left" valign="middle">
       <b>Languages</b><br/>
