@@ -86,8 +86,10 @@
 
 <table border="0" cellpadding="8" cellspacing="0">
   <tr>
-    <td align="center" valign="middle" rowspan="6" style="padding-right: 20px;">
-      <img src="Assets/seal-red.png" height="130" alt="Nine-Tails Seal"/>
+    <td align="center" valign="top" rowspan="6" style="padding-right: 20px;">
+      <img src="Assets/seal-red.png" height="110" alt="Nine-Tails Seal"/>
+      <br/>
+      技<br/>力<br/>道<br/>忍<br/>創<br/>術<br/>志<br/>覇
     </td>
     <td align="left" valign="middle">
       <b>Languages</b><br/>
@@ -122,7 +124,7 @@
   </tr>
   <tr>
     <td align="left" valign="middle">
-      <b>DevOps & Tools</b><br/>
+      <b>DevOps &amp; Tools</b><br/>
       <img src="https://img.shields.io/badge/Git-1a1e2e?style=for-the-badge&logo=git&logoColor=b8d4e8"/>
       <img src="https://img.shields.io/badge/Linux-1a1e2e?style=for-the-badge&logo=linux&logoColor=b8d4e8"/>
       <img src="https://img.shields.io/badge/Docker-1a1e2e?style=for-the-badge&logo=docker&logoColor=b8d4e8"/>
