@@ -79,27 +79,6 @@
 
 ---
 
-<!-- PROFILE SUMMARY CARDS -->
-<h2 align="center">🧬 Profile Summary</h2>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VeerShah41&theme=github_dark" width="97%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VeerShah41&theme=github_dark"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VeerShah41&theme=github_dark"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VeerShah41&theme=github_dark&utcOffset=5.5"/>
-
-</div>
-
----
-
 <!-- TECH STACK1 -->
 <h2 align="center">🛠 Tech Stack</h2>
 
