@@ -79,32 +79,65 @@
 
 ---
 
-<!-- TECH STACK1 -->
+<!-- TECH STACK -->
 <h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="10">
+<table border="0" cellpadding="8" cellspacing="0">
   <tr>
-    <td align="center" valign="middle">
-      <img src="Assets/seal-red.png" height="100" alt="Nine-Tails Seal"/>
+    <td align="center" valign="middle" rowspan="6" style="padding-right: 20px;">
+      <img src="Assets/seal-red.png" height="130" alt="Nine-Tails Seal"/>
     </td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,express,mysql,mongodb,prisma,git,linux,docker&theme=dark&perline=8"/>
+      <b>Languages</b><br/>
+      <img src="https://img.shields.io/badge/Python-1a1e2e?style=for-the-badge&logo=python&logoColor=b8d4e8"/>
+      <img src="https://img.shields.io/badge/TypeScript-1a1e2e?style=for-the-badge&logo=typescript&logoColor=b8d4e8"/>
+      <img src="https://img.shields.io/badge/JavaScript-1a1e2e?style=for-the-badge&logo=javascript&logoColor=b8d4e8"/>
+      <img src="https://img.shields.io/badge/HTML-1a1e2e?style=for-the-badge&logo=html5&logoColor=b8d4e8"/>
+      <img src="https://img.shields.io/badge/CSS-1a1e2e?style=for-the-badge&logo=css3&logoColor=b8d4e8"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">
+      <b>Frontend</b><br/>
+      <img src="https://img.shields.io/badge/React-1a1e2e?style=for-the-badge&logo=react&logoColor=b8d4e8"/>
+      <img src="https://img.shields.io/badge/Next.js-1a1e2e?style=for-the-badge&logo=nextdotjs&logoColor=b8d4e8"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">
+      <b>Backend</b><br/>
+      <img src="https://img.shields.io/badge/Node.js-1a1e2e?style=for-the-badge&logo=node.js&logoColor=b8d4e8"/>
+      <img src="https://img.shields.io/badge/Express-1a1e2e?style=for-the-badge&logo=express&logoColor=b8d4e8"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">
+      <b>Databases</b><br/>
+      <img src="https://img.shields.io/badge/MySQL-1a1e2e?style=for-the-badge&logo=mysql&logoColor=b8d4e8"/>
+      <img src="https://img.shields.io/badge/MongoDB-1a1e2e?style=for-the-badge&logo=mongodb&logoColor=b8d4e8"/>
+      <img src="https://img.shields.io/badge/Prisma-1a1e2e?style=for-the-badge&logo=prisma&logoColor=b8d4e8"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">
+      <b>DevOps & Tools</b><br/>
+      <img src="https://img.shields.io/badge/Git-1a1e2e?style=for-the-badge&logo=git&logoColor=b8d4e8"/>
+      <img src="https://img.shields.io/badge/Linux-1a1e2e?style=for-the-badge&logo=linux&logoColor=b8d4e8"/>
+      <img src="https://img.shields.io/badge/Docker-1a1e2e?style=for-the-badge&logo=docker&logoColor=b8d4e8"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle">
+      <b>Data Science</b><br/>
+      <img src="https://img.shields.io/badge/NumPy-1a1e2e?style=for-the-badge&logo=numpy&logoColor=b8d4e8"/>
+      <img src="https://img.shields.io/badge/Pandas-1a1e2e?style=for-the-badge&logo=pandas&logoColor=b8d4e8"/>
+      <img src="https://img.shields.io/badge/Matplotlib-1a1e2e?style=for-the-badge&logo=plotly&logoColor=b8d4e8"/>
+      <img src="https://img.shields.io/badge/Excel-1a1e2e?style=for-the-badge&logo=microsoft-excel&logoColor=b8d4e8"/>
     </td>
   </tr>
 </table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![NumPy](https://img.shields.io/badge/NumPy-1a1e2e?style=for-the-badge&logo=numpy&logoColor=b8d4e8)
-![Pandas](https://img.shields.io/badge/Pandas-1a1e2e?style=for-the-badge&logo=pandas&logoColor=b8d4e8)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1a1e2e?style=for-the-badge&logo=plotly&logoColor=b8d4e8)
-![Excel](https://img.shields.io/badge/Excel-1a1e2e?style=for-the-badge&logo=microsoft-excel&logoColor=b8d4e8)
 
 </div>
 
