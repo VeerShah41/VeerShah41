@@ -89,7 +89,7 @@
     <td align="center" valign="top" rowspan="6" style="padding-right: 20px;">
       <img src="Assets/seal-red.png" height="140" alt="Nine-Tails Seal"/>
       <br/>
-      技<br/>力<br/>道<br/>忍<br/>創<br/>術<br/>志<br/>覇<br/>轟<br/>剣<br/>炎<br/>魂<br/>極
+      技<br/><br/>力<br/><br/>道<br/><br/>忍<br/><br/>創<br/><br/>術<br/><br/>志<br/><br/>覇
     </td>
     <td align="left" valign="middle">
       <b>Languages</b><br/>
