@@ -153,6 +153,9 @@
 <a href="https://holopin.io/@veershah41">
   <img src="https://holopin.me/veershah41" alt="@veershah41's holopin board" width="92%"/>
 </a>
+<a href="https://leetcode.com/Veer_Shah_41" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" alt="LeetCode profile" height="200" width="200" />
+  </a>
 
 </div>
 
