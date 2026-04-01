@@ -79,7 +79,7 @@
 
 ---
 
-<!-- TECH STACK -->
+
 <h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
@@ -145,7 +145,7 @@
 
 ---
 
-<!-- ACHIEVEMENTS -->
+
 <h2 align="center">🏅 Achievements</h2>
 
 <div align="center">
