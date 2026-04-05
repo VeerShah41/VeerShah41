@@ -62,7 +62,7 @@
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=VeerShah41&theme=codeSTACKr&hide_border=false)
+![Streak](https://streak-stats.demolab.com?user=VeerShah41&hide_border=true&background=1a1e2e&ring=9bb8d4&fire=d4c5b0&currStreakLabel=b8d4e8&currStreakNum=e8ddd0&sideLabels=9bb8d4&sideNums=d4c5b0&dates=7b9bb5&stroke=2d3561)
 
 </div>
 
