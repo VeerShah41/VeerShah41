@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- ANIMATED BANNER -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1e2e,40:2d3561,80:7b9bb5,100:b8d4e8&height=240&section=header&text=V%E1%B4%87%E1%B4%87%CA%80%20S%CA%9C%E1%B4%80%CA%9C&fontSize=62&fontColor=e8ddd0&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20DevOps%20%7C%20Problem%20Solver&descAlignY=56&descColor=c9b99a" width="100%"/>
 
 </div>
 
-<!-- TYPING ANIMATION -->
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=B8D4E8&background=00000000&center=true&vCenter=true&width=620&lines=%24+whoami+%3E+Veer+Shah;%24+status+%3E+Coding+at+3AM+%F0%9F%8C%99;%24+./launch_project.sh+--prod;%24+git+commit+-m+%22ship+it%22;%24+echo+%22Stay+Curious+%E2%9C%A8%22)](https://git.io/typing-svg)
@@ -14,19 +14,18 @@
 
 ---
 
-<!-- SYSTEM INFO - TERMINAL STYLE -->
 <div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                 ✦  PROFILE — VEER SHAH  ✦                      │
+│                 ✦  PROFILE — VEER SHAH  ✦                       │
 ├─────────────────────────────────────────────────────────────────┤
-│  [USER]      Veer Shah                                          │
-│  [ROLE]      Full Stack Developer & DevOps Learner              │
-│  [LOCATION]  India  🇮🇳                                          │
-│  [STATUS]    Building... ████████████ 100% ✓                   │
-│  [UPTIME]    24/7 Problem Solving Mode                          │
-│  [MISSION]   Ship fast. Break things. Fix them faster.          │
+│  [USER]       Veer Shah                                         │
+│  [ROLE]       Full Stack Developer & DevOps Learner             │
+│  [LOCATION]   India 🇮🇳                                          │
+│  [STATUS]     Building... █████████████ 100% ✓                  │
+│  [UPTIME]     24/7 Problem Solving Mode                         │
+│  [MISSION]    Ship fast. Break things. Fix them faster.         │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
