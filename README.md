@@ -154,7 +154,7 @@
 </a>
 <a href="https://leetcode.com/u/Veer_Shah_41/" target="_blank">
   <img 
-    src="https://assets.leetcode.com/static_assets/others/100.gif"
+    src="https://assets.leetcode.com/static_assets/others/200.gif"
     alt="LeetCode 100 Days Badge"
     height="180"
   />
